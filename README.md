@@ -1,4 +1,4 @@
-## ita
+## ita [![GoDoc](https://godoc.org/github.com/gernest/ita?status.svg)](https://godoc.org/github.com/gernest/ita)[![Coverage Status](https://coveralls.io/repos/gernest/ita/badge.svg?branch=master&service=github)](https://coveralls.io/github/gernest/ita?branch=master)[![Build Status](https://travis-ci.org/gernest/ita.svg)](https://travis-ci.org/gernest/ita)
 ita is a Go(Golang) library that provides a clean API for dynamically calling structs methods.
 
 The name ita is a swahili word for call.
