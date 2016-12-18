@@ -107,11 +107,9 @@ Start with clicking the star button to make the author and his neighbors happy. 
 Or Open an issue for any questions.
 
 ## Author
-Geofrey Ernest <geofreyernest@live.com>
 
 twitter  : [@gernesti](https://twitter.com/gernesti)
 
-Facebook : [Geofrey Ernest](https://www.facebook.com/geofrey.ernest.35)
 
 
 ## Roadmap
